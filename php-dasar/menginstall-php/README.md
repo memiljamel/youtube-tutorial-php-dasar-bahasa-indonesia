@@ -15,7 +15,7 @@
 - Tiap sistem operasi berbeda-beda cara setting PATH nya
 - Inti dari setting PATH adalah agar kita bisa mengakses PHP dari command prompt / terminal
 
-![Untuk Linux atau Mac](/menginstall-php/Picture%201.PNG "Untuk Linux atau Mac")
+![Untuk Linux atau Mac](/php-dasar//menginstall-php/Picture%201.PNG "Untuk Linux atau Mac")
 
 # Text Editor
 

@@ -15,11 +15,11 @@
 
 # Kenapa Belajar PHP
 
-![TIOBE Programming Community Index](/pengenalan-php/Picture%201.PNG "TIOBE Programming Community Index")
+![TIOBE Programming Community Index](/php-dasar//pengenalan-php/Picture%201.PNG "TIOBE Programming Community Index")
 
 # Proses Development PHP
 
-![Prosess Development PHP](/pengenalan-php/Picture%202.PNG "Proses Development PHP")
+![Prosess Development PHP](/php-dasar//pengenalan-php/Picture%202.PNG "Proses Development PHP")
 
 # Apa yang Bisa Dibuat Menggunakan PHP?
 
