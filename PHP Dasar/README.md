@@ -4,6 +4,7 @@
 - Menginstall PHP
 - Tipe Data
 - Variable
+- Operator
 - Percabangan
 - Perulangan
 - Function
