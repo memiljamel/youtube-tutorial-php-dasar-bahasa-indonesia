@@ -9,7 +9,7 @@ Di PHP kita bisa menambahkan _ (garis bawah) di angka, ini hanya untuk agar muda
 
 Untuk angka negatif, kita bisa menggunakan tanda - (minus) di depan angka
 
-File: [TipeDataNumber.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataNumber.php), [TipeDataFloat.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataFloat.php) 
+File: [TipeDataNumber.php](/04%20-%20Tipe%20Data/TipeDataNumber.php), [TipeDataFloat.php](/04%20-%20Tipe%20Data/TipeDataFloat.php) 
 
 # Integer Overflow
 
@@ -23,7 +23,7 @@ File: [TipeDataNumber.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataNumber.php)
 - Nilai benar direpresentasikan dengan true (case insensitive)
 - Nilai salah direpresentasikan dengan false (case insensitive)
 
-File: [TipeDataBoolean.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataBoolean.php)
+File: [TipeDataBoolean.php](/04%20-%20Tipe%20Data/TipeDataBoolean.php)
 
 # Tipe Data String
 
@@ -34,13 +34,13 @@ File: [TipeDataBoolean.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataBoolean.ph
 
 untuk membuat String di PHP, kita bisa menggunakan single quote
 
-File: [TipeDataStringWithSingleQuote.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataStringWithSingleQuote.php)
+File: [TipeDataStringWithSingleQuote.php](/04%20-%20Tipe%20Data/TipeDataStringWithSingleQuote.php)
 
 # Double Quote
 
 Selain single quote, kita juga bisa menggunakan double quote. Salah satu kelebihan menggunakan double quote adalah, kita menggunakan escape sequence untuk beberapa hal, seperti `\n` untuk ENTER, `\t` untuk TAB, `\"` untuk double quote, dan lain-lain
 
-File: [TipeDataStringWithDoubleQuote.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataStringWithDoubleQuote.php)
+File: [TipeDataStringWithDoubleQuote.php](/04%20-%20Tipe%20Data/TipeDataStringWithDoubleQuote.php)
 
 # Multiline String
 
@@ -51,13 +51,13 @@ File: [TipeDataStringWithDoubleQuote.php](/PHP%20Dasar/04%20-%20Tipe%20Data/Tipe
 
 Heredoc adalah fitur untuk membuat String yang panjang, sehingga kita tidak perlu manual melakukan ENTER, TAB, dan lain-lain.
 
-File: [TipeDataStringWithHeredoc.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataStringWithHeredoc.php)
+File: [TipeDataStringWithHeredoc.php](/04%20-%20Tipe%20Data/TipeDataStringWithHeredoc.php)
 
 # Nowdoc
 
 Nowdoc mirip seperti Heredoc, yang membedakan adalah pada Nowdoc tidak memiliki kemampuan parsing seperti di Heredoc atau Double Quote. Masalah parsing akan kita bahas di materi Manipulasi String
 
-File: [TipeDataStringWithNowdoc.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataStringWithNowdoc.php)
+File: [TipeDataStringWithNowdoc.php](/04%20-%20Tipe%20Data/TipeDataStringWithNowdoc.php)
 
 # Tipe Data Array
 
@@ -67,17 +67,17 @@ File: [TipeDataStringWithNowdoc.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataS
 
 # Cara Kerja Array
 
-![Cara Kerja Array](/PHP%20Dasar/04%20-%20Tipe%20Data/Picture%201.PNG "Cara Kerja Array")
+![Cara Kerja Array](/04%20-%20Tipe%20Data/Picture%201.PNG "Cara Kerja Array")
 
 # Membuat Array
 
-File: [TipeDataArray.php](/PHP%20Dasar/04%20-%20Tipe%20Data/TipeDataArray.php)
+File: [TipeDataArray.php](/04%20-%20Tipe%20Data/TipeDataArray.php)
 
 # Operasi Array
 
-![Operasi Array](/PHP%20Dasar/04%20-%20Tipe%20Data/Picture%202.PNG "Operasi Array")
+![Operasi Array](/04%20-%20Tipe%20Data/Picture%202.PNG "Operasi Array")
 
-File: [OperasiArray.php](/PHP%20Dasar/04%20-%20Tipe%20Data/OperasiArray.php)
+File: [OperasiArray.php](/04%20-%20Tipe%20Data/OperasiArray.php)
 
 # Array Sebagai Map
 
@@ -87,11 +87,11 @@ File: [OperasiArray.php](/PHP%20Dasar/04%20-%20Tipe%20Data/OperasiArray.php)
 - Namun jika kita ingin, kita juga bisa mengubah index nya tidak harus menggunakan number, bisa gunakan tipe data lain, seperti string misalnya
 - Hal tersebut terlihat seperti `Map` di bahasa pemrograman lain
 
-File: [MembuatMap.php](/PHP%20Dasar/04%20-%20Tipe%20Data/MembuatMap.php)
+File: [MembuatMap.php](/04%20-%20Tipe%20Data/MembuatMap.php)
 
 # Array di Dalam Array
 
 - Seperti dijelaskan di awal, Array di PHP bisa berisikan data apapun
 - Sehingga kita juga bisa membuat Array di dalam array jika memang dibutuhkan
 
-File: [NestedArray.php](/PHP%20Dasar/04%20-%20Tipe%20Data/NestedArray.php)
+File: [NestedArray.php](/04%20-%20Tipe%20Data/NestedArray.php)

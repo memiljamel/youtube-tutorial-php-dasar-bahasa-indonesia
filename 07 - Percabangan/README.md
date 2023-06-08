@@ -4,9 +4,9 @@
 - Percabangan artinya kita bisa mengeksekusi kode program tertentu ketika suatu kondisi terpenuhi
 - Hampir di semua bahasa pemrograman mendukung `if` expression
 
-![Syntax If Statement](/PHP%20Dasar/07%20-%20Percabangan/Picture%201.PNG "Syntax If Statement")
+![Syntax If Statement](/07%20-%20Percabangan/Picture%201.PNG "Syntax If Statement")
 
-File: [IfStatement.php](/PHP%20Dasar/07%20-%20Percabangan/IfStatement.php)
+File: [IfStatement.php](/07%20-%20Percabangan/IfStatement.php)
 
 # Else Statement
 
@@ -14,9 +14,9 @@ File: [IfStatement.php](/PHP%20Dasar/07%20-%20Percabangan/IfStatement.php)
 - Kadang kita ingin melakukan eksekusi program tertentu jika kondisi `if` bernilai false
 - Hal ini bisa dilakukan menggunakan `else` statement
 
-![Syntax Else Statement](/PHP%20Dasar/07%20-%20Percabangan/Picture%202.PNG "Syntax Else Statement")
+![Syntax Else Statement](/07%20-%20Percabangan/Picture%202.PNG "Syntax Else Statement")
 
-File: [ElseStatement.php](/PHP%20Dasar/07%20-%20Percabangan/ElseStatement.php)
+File: [ElseStatement.php](/07%20-%20Percabangan/ElseStatement.php)
 
 # Else If Statement
 
@@ -25,16 +25,16 @@ File: [ElseStatement.php](/PHP%20Dasar/07%20-%20Percabangan/ElseStatement.php)
 - `else if` di PHP bisa lebih dari satu
 - Kode `else if` di PHP bisa menggunakan `else if` atau `elseif` (digabung)
 
-![Else If Statement](/PHP%20Dasar/07%20-%20Percabangan/Picture%203.PNG "Else If Statement")
+![Else If Statement](/07%20-%20Percabangan/Picture%203.PNG "Else If Statement")
 
-File: [ElseIfStatement.php](/PHP%20Dasar/07%20-%20Percabangan/ElseIfStatement.php)
+File: [ElseIfStatement.php](/07%20-%20Percabangan/ElseIfStatement.php)
 
 # Syntax If Alternatif
 
 - Selain menggunakan `{}` (kurung kurawal), PHP juga menyediakan syntax alternatif untuk menggunakan `if`, yaitu dengan menggunakan `:` (titik dua)
 - Namun untuk menggunakan ini, kita harus menggunakan kata kunci `endif` diakhir `if` statement
 
-File: [IfAlternatif.php](/PHP%20Dasar/07%20-%20Percabangan/IfAlternatif.php)
+File: [IfAlternatif.php](/07%20-%20Percabangan/IfAlternatif.php)
 
 # Switch Statement
 
@@ -42,14 +42,14 @@ File: [IfAlternatif.php](/PHP%20Dasar/07%20-%20Percabangan/IfAlternatif.php)
 - Switch adalah statement percabangan yang sama dengan `if`, namun lebih sederhana cara pembuatannya
 - Kondisi di `switch` statement hanya untuk perbandingan `==`
 
-File: [SwitchStatement.php](/PHP%20Dasar/07%20-%20Percabangan/SwitchStatement.php)
+File: [SwitchStatement.php](/07%20-%20Percabangan/SwitchStatement.php)
 
 # Syntax Switch Alternatif
 
 - Sama seperti `if` statement, `switch` statement juga bisa tanpa menggunakan `{}` (kurung kurawal)
 - Namun diakhir `switch` statement, kita harus menambahkan kata kunci `endswitch`
 
-File: [SwitchAlternatif.php](/PHP%20Dasar/07%20-%20Percabangan/SwitchAlternatif.php)
+File: [SwitchAlternatif.php](/07%20-%20Percabangan/SwitchAlternatif.php)
 
 # Ternary Operator
 
@@ -57,7 +57,7 @@ File: [SwitchAlternatif.php](/PHP%20Dasar/07%20-%20Percabangan/SwitchAlternatif.
 - Penggunaan `if` statement pada kasus seperti itu bisa dipersingkat menggunakan ternary operator
 - Ternary operator menggunakan kata kunci `?` dan `:`
 
-File: [BukanTernaryOperator.php](/PHP%20Dasar/07%20-%20Percabangan/BukanTernaryOperator.php), [TernaryOperator.php](/PHP%20Dasar/07%20-%20Percabangan/TernaryOperator.php)
+File: [BukanTernaryOperator.php](/07%20-%20Percabangan/BukanTernaryOperator.php), [TernaryOperator.php](/07%20-%20Percabangan/TernaryOperator.php)
 
 # Null Coalescing Operator
 
@@ -66,5 +66,5 @@ File: [BukanTernaryOperator.php](/PHP%20Dasar/07%20-%20Percabangan/BukanTernaryO
 - Biasanya untuk melakukan itu, kita perlu menggunakan pengecekan `if` statement dengan function `isset($variabel)`
 - Namun untungnya di PHP ada null coalescing operator menggunakan tanda `??`
 
-File: [TanpaNullCoalescingOperator.php](/PHP%20Dasar/07%20-%20Percabangan/TanpaNullCoalescingOperator.php), [NullCoalescingOperator.php](/PHP%20Dasar/07%20-%20Percabangan/NullCoalescingOperator.php)
+File: [TanpaNullCoalescingOperator.php](/07%20-%20Percabangan/TanpaNullCoalescingOperator.php), [NullCoalescingOperator.php](/07%20-%20Percabangan/NullCoalescingOperator.php)
 

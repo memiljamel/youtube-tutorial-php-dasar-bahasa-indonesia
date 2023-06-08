@@ -6,7 +6,7 @@
 Namun agar mempermudah saat menjalankan file PHP, direkomendasikan tidak menggunakan spasi.
 - Untuk menampilkan tulisan di PHP, kita bisa menggunakan perintah `echo`
 
-File: [HelloWorld.php](/PHP%20Dasar/03%20-%20Program%20Hello%20World/HelloWorld.php)
+File: [HelloWorld.php](/03%20-%20Program%20Hello%20World/HelloWorld.php)
 
 # Menjalankan Program
 
