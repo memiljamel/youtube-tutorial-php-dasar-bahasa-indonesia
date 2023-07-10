@@ -10,8 +10,6 @@
 - Function
 - dan lain-lain
 
-Sumber: [YouTube Programmer Zaman Now](https://www.youtube.com/watch?v=TaBWhb5SPfc&list=PL-CtdCApEFH9EmZy4zYfW1ATIJ-qMXxGt&index=1&t=2999s&ab_channel=ProgrammerZamanNow)
-
 # Materi Selanjutnya
 
 - PHP Object Oriented Programming
@@ -19,3 +17,5 @@ Sumber: [YouTube Programmer Zaman Now](https://www.youtube.com/watch?v=TaBWhb5SP
 - PHP Web
 - PHP Composer
 - PHP Unit Test
+
+Sumber: [YouTube Programmer Zaman Now](https://www.youtube.com/watch?v=TaBWhb5SPfc&list=PL-CtdCApEFH9EmZy4zYfW1ATIJ-qMXxGt&index=1&t=2999s&ab_channel=ProgrammerZamanNow)
